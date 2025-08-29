@@ -39,11 +39,11 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAARS1&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MAARS1&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAARS1&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAARS1&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
